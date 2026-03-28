@@ -167,6 +167,5 @@ Class imbalance handled via weighted CrossEntropy:
 ## Author
 
 **Rehant Roy**  
-123AD0010  
 IIITDM Kurnool  
 NLP Practice Course
